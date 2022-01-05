@@ -141,7 +141,8 @@ footer {
   .box1 {
     width: 90%;
     margin-bottom: 20px;
-    margin-right: 0;
+    margin-right: 5%;
+    margin-left: 5%;
   }
   .box1-image {
     height: 150px;
@@ -149,13 +150,16 @@ footer {
   .box2 {
     width: 90%;
     margin-bottom: 20px;
-    margin-right: 0;
+    margin-right: 5%;
+    margin-left: 5%;
   }
   .box2-image {
     height: 150px;
   }
   .box3 {
     width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
   }
   .box3-image {
     height: 150px;
